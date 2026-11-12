@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-mail
+mysql-connector-python
+google-generativeai
+razorpay
+pandas
+openpyxl
+openai
+cryptography
+sendgrid
+locust
+requests
+python-dotenv
